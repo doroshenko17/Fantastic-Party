@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+ 
+header {
+    background-color: PaleTurquoise;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: DarkViolet;
+    font-weight: normal;
+}
+
+footer {
+    background-color: Plum;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
+nav {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid DarkViolet;
+}
+
+nav a {
+    margin: 50px;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(red, green, blue);
+}
+
+select {
+    padding: 10px;
+    border: 2px solid DarkViolet;
+    font-size: 20px;
+}
+
+select option {
+    color: rgb(red, green, blue);
+}
+
+.prod {
+    background-color: DarkSeaGreen;
+    padding: 10px;
+}
+
+#discount {
+    color: blue;
+}
+
+.rer {
+    border: 1px solid Cyan;
+    border-radius: 10px;
+}
